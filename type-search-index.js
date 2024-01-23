@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"stackapp.model","l":"Node"},{"p":"stackapp.model","l":"Stack"},{"p":"stackapp","l":"StackApp"}];updateSearchResults();
